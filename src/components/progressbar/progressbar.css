@@ -1,0 +1,54 @@
+.progress-container{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+   flex-direction: column;
+   background-image: url('/bg.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.progressbar{
+    width: 40%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #183e64;
+    margin: 10px auto;
+    
+}
+.progressbarFill{
+    height: 100%;
+    background-color: #4caf50;
+    width: 0;
+    transition: width 0.1s ease-in-out;
+    border-radius: 5px;
+}
+.percentage{
+    margin-top: -2.5%;
+    color: #ffffff;
+}
+.progressShow{
+    margin-top: 1.5%;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+h2{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+
+@media (max-width:768px){
+    .percentage{
+        margin-top: -4.5%;
+    }
+}
+@media (max-width:480px){
+    .percentage{
+        margin-top: -8.5%;
+    }
+    .progressShow{
+        margin-top: 4%;
+    }
+}
