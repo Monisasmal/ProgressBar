@@ -1,8 +1,27 @@
-# React + Vite
+**🚀 Progress Bar React Web App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and visually appealing web-based progress bar animation built using HTML, CSS, and JavaScript. The app displays a smooth animated progress bar with a percentage counter — great for learning front-end animation techniques or integrating into web projects.
 
-Currently, two official plugins are available:
+**🔗 Live Demo:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[View Here](https://progresssbar-manaswini-sasmals-projects.vercel.app)
+
+**✨ Features**
+- 🔄 Animated loading bar
+- 📊 Real-time percentage display
+- 💡 Beginner-friendly code structure
+- 🎨 Clean and responsive UI
+- ⚡ Fast loading and lightweight
+
+**🛠️ Tech Stack**
+
+- HTML5
+- CSS3 (Animations, Flexbox)
+- JavaScript (for progress updates)
+
+**📷 Screenshots**
+![image](https://github.com/user-attachments/assets/29b3e1ab-7fc5-41ec-9e5a-420669538ed2)
+
+**💡 Author**
+
+Made with 💙 by Manaswini Sasmal
