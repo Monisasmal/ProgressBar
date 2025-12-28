@@ -1,6 +1,6 @@
 ## 🚀 Progress Bar React Web App
 
-A simple and visually appealing web-based progress bar animation built using HTML, CSS, and JavaScript. The app displays a smooth animated progress bar with a percentage counter — great for learning front-end animation techniques or integrating into web projects.
+This project demonstrates a reusable progress bar built in React. I used React state to control progress values and styled-components for dynamic styling, ensuring clean and maintainable UI logic.
 
 ---
 
@@ -10,20 +10,30 @@ A simple and visually appealing web-based progress bar animation built using HTM
 
 ---
 
-## ✨ Features
-- 🔄 Animated loading bar
-- 📊 Real-time percentage display
-- 💡 Beginner-friendly code structure
-- 🎨 Clean and responsive UI
-- ⚡ Fast loading and lightweight
+## 📌 Project Overview
+- A dynamic **Progress Bar component** built using React
+- Visually represents progress based on percentage values
+- Styled using **styled-components** for scoped and reusable styling
+- Demonstrates controlled state updates and UI reactivity
 
 ---
 
 ## 🛠️ Tech Stack
+- **Frontend:** React 18
+- **Styling:** styled-components
+- **Build Tool:** Vite
+- **Linting:** ESLint
 
-- HTML5
-- CSS3 (Animations, Flexbox)
-- JavaScript (for progress updates)
+---
+
+## 🚀 Core Features
+- Dynamic progress update using React state
+- Smooth width transition based on progress value
+- Fully reusable progress bar component
+- Clean and minimal UI
+- Responsive design support
+
+---
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/29b3e1ab-7fc5-41ec-9e5a-420669538ed2)
