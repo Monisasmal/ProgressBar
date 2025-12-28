@@ -35,6 +35,14 @@ This project demonstrates a reusable progress bar built in React. I used React s
 
 ---
 
+## 🧠 How It Works
+- Progress value is stored in React state
+- The width of the progress bar is calculated dynamically
+- Styled-components handle conditional styling
+- UI updates instantly when the progress value changes
+
+---
+
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/29b3e1ab-7fc5-41ec-9e5a-420669538ed2)
 
