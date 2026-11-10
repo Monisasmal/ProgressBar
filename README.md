@@ -49,9 +49,7 @@ This project demonstrates a reusable progress bar built in React. I used React s
 ---
 
 
-🙋‍♀️ Author
-
-Manaswini Sasmal
+## 🙋‍♀️ Author - Manaswini Sasmal
 
 👩‍💻 Frontend Developer | React Enthusiast
 
